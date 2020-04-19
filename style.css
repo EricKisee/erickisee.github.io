@@ -79,8 +79,8 @@ html, body {
 .fa-css3 {
   color: #2163af;
 }
-.fa-code, .fa-bold, .fa-css3 , .fa-linkedin-square, .fa-github, .fa-android , .fa-java , .fa-server,
-.fa-php, .fa-node-js, .fa-python, .fa-database, .fa-angular, .fa-adobe{
+.fa-code, .fa-bold, .fa-css3 , .fa-github, .fa-github, .fa-android , .fa-java , .fa-server,
+.fa-php, .fa-node-js, .fa-python, .fa-database, .fa-angular, .fa-adobe, .fa-linkedin{
   font-size: 2em;
   margin: 1rem;
 }
@@ -95,6 +95,12 @@ html, body {
 .social a{
   font-size: 2em;
   padding: 3rem;
+}
+.fa-github{
+  color: #211F1F;
+}
+.fa-linkedin{
+  color: #0e76a8;
 }
 .fa-facebook {
   color: #3b5998;
@@ -111,10 +117,12 @@ html, body {
 .fa-youtube {
   color: #bb0000;
 }
+.fa-github:hover,
 .fa-youtube:hover,
 .fa-instagram:hover,
 .fa-google-plus-g:hover,
 .fa-twitter:hover,
+.fa-linkedin:hover,
 .fa-facebook:hover{
   color: #d5d5d5;
 }
