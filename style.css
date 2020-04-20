@@ -98,9 +98,11 @@ html, body {
 }
 .fa-github{
   color: #211F1F;
+  font-size: 1em;
 }
 .fa-linkedin{
   color: #0e76a8;
+  font-size: 1em;
 }
 .fa-facebook {
   color: #3b5998;
